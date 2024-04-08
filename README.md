@@ -1,3 +1,5 @@
+
+https://github.com/PrincePatel027/Time_Spare_clock/assets/149999800/25e5edb5-8af9-4f9d-8dd6-5b115bc33599
 # Flutter Time Sphere Clock
 
 This Flutter application features a digital clock screen and a stopwatch screen.
@@ -12,28 +14,11 @@ The digital clock screen displays the current time in a digital format.
 
 The stopwatch screen allows users to start, stop, and reset a stopwatch.
 
-## Screenshots
+## Screenshots / Videos
 
-Include screenshots of your application here.
+https://github.com/PrincePatel027/Time_Spare_clock/assets/149999800/ea0d1f47-b1a8-42e6-9ef3-11000e1bd1cf
 
-## Folder Structure
-
-time_sphere_clock/
-│
-├── lib/\n
-│ ├── main.dart\n
-│ ├── screens/\n
-│ │ ├── digital_screen.dart\n
-│ │ ├── home_page.dart\n
-│ │ └── stopwatch.dart\n
-│ └── other_files.dart\n
-│
-├── android/\n
-├── ios/\n
-├── test/\n
-├── README.md\n
-└── pubspec.yaml\n
-
+![Artboard 1](https://github.com/PrincePatel027/Time_Spare_clock/assets/149999800/bd261af6-da65-409b-8148-09089eb113a3)
 
 ## Contributing
 

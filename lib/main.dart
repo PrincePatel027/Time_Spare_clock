@@ -1,24 +1,15 @@
-import 'package:clockify/screens/alramclock.dart';
-import 'package:clockify/screens/analogclock.dart';
-import 'package:clockify/screens/digitalclock.dart';
-import 'package:clockify/screens/homepage.dart';
-import 'package:clockify/screens/stopwatch.dart';
-import 'package:clockify/screens/strapwatch.dart';
-import 'package:clockify/screens/timer.dart';
-import 'package:flutter_neumorphic_plus/flutter_neumorphic.dart';
+import 'package:flutter/material.dart';
+import 'package:time_sphere_clock/screens/digital_screen.dart';
+import 'package:time_sphere_clock/screens/home_page.dart';
+import 'package:time_sphere_clock/screens/stopwatch.dart';
 
 void main() {
   runApp(
-    NeumorphicApp(
-      debugShowCheckedModeBanner: false,
+    MaterialApp(
       routes: {
-        '/': (context) => const Homepage(),
-        'Analogclock': (context) => const Analogclock(),
-        'digitalclock': (context) => const digitalclock(),
-        'timer': (context) => const TimerScreen(),
-        'stopwatch': (context) => const stopwatch(),
-        'Starpwatch': (context) => const Starpwatch(),
-        'Alaramclock': (context) => const Alaramclock(),
+        '/': (context) => const HomePage(),
+        'digitalClock': (context) => const Digital(),
+        'stopWatch': (context) => const StopWatch(),
       },
     ),
   );

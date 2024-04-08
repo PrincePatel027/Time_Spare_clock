@@ -20,19 +20,19 @@ Include screenshots of your application here.
 
 time_sphere_clock/
 │
-├── lib/
-│ ├── main.dart
-│ ├── screens/
-│ │ ├── digital_screen.dart
-│ │ ├── home_page.dart
-│ │ └── stopwatch.dart
-│ └── other_files.dart
+├── lib/\n
+│ ├── main.dart\n
+│ ├── screens/\n
+│ │ ├── digital_screen.dart\n
+│ │ ├── home_page.dart\n
+│ │ └── stopwatch.dart\n
+│ └── other_files.dart\n
 │
-├── android/
-├── ios/
-├── test/
-├── README.md
-└── pubspec.yaml
+├── android/\n
+├── ios/\n
+├── test/\n
+├── README.md\n
+└── pubspec.yaml\n
 
 
 ## Contributing

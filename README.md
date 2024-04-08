@@ -1,5 +1,3 @@
-
-https://github.com/PrincePatel027/Time_Spare_clock/assets/149999800/25e5edb5-8af9-4f9d-8dd6-5b115bc33599
 # Flutter Time Sphere Clock
 
 This Flutter application features a digital clock screen and a stopwatch screen.
